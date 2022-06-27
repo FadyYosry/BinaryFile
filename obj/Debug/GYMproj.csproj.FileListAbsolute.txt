@@ -1,0 +1,33 @@
+C:\Users\fadyy\source\repos\GYMproj\bin\Debug\GYMproj.exe.config
+C:\Users\fadyy\source\repos\GYMproj\bin\Debug\GYMproj.exe
+C:\Users\fadyy\source\repos\GYMproj\bin\Debug\GYMproj.pdb
+C:\Users\fadyy\source\repos\GYMproj\obj\Debug\GYMproj.csproj.AssemblyReference.cache
+C:\Users\fadyy\source\repos\GYMproj\obj\Debug\GYMproj.Properties.Resources.resources
+C:\Users\fadyy\source\repos\GYMproj\obj\Debug\GYMproj.csproj.GenerateResource.cache
+C:\Users\fadyy\source\repos\GYMproj\obj\Debug\GYMproj.csproj.CoreCompileInputs.cache
+C:\Users\fadyy\source\repos\GYMproj\obj\Debug\GYMproj.exe
+C:\Users\fadyy\source\repos\GYMproj\obj\Debug\GYMproj.pdb
+C:\Users\fadyy\source\repos\GYMproj\obj\Debug\GYMproj.Form2.resources
+C:\Users\fadyy\source\repos\GYMproj\obj\Debug\GYMproj.GYM.resources
+E:\Write\GYMproj\bin\Debug\GYMproj.exe.config
+E:\Write\GYMproj\bin\Debug\GYMproj.exe
+E:\Write\GYMproj\bin\Debug\GYMproj.pdb
+E:\Write\GYMproj\obj\Debug\GYMproj.csproj.AssemblyReference.cache
+E:\Write\GYMproj\obj\Debug\GYMproj.GYM.resources
+E:\Write\GYMproj\obj\Debug\GYMproj.Form2.resources
+E:\Write\GYMproj\obj\Debug\GYMproj.Properties.Resources.resources
+E:\Write\GYMproj\obj\Debug\GYMproj.csproj.GenerateResource.cache
+E:\Write\GYMproj\obj\Debug\GYMproj.csproj.CoreCompileInputs.cache
+E:\Write\GYMproj\obj\Debug\GYMproj.exe
+E:\Write\GYMproj\obj\Debug\GYMproj.pdb
+E:\Write\New folder\GYMproj\bin\Debug\GYMproj.exe.config
+E:\Write\New folder\GYMproj\bin\Debug\GYMproj.exe
+E:\Write\New folder\GYMproj\bin\Debug\GYMproj.pdb
+E:\Write\New folder\GYMproj\obj\Debug\GYMproj.csproj.AssemblyReference.cache
+E:\Write\New folder\GYMproj\obj\Debug\GYMproj.GYM.resources
+E:\Write\New folder\GYMproj\obj\Debug\GYMproj.Form2.resources
+E:\Write\New folder\GYMproj\obj\Debug\GYMproj.Properties.Resources.resources
+E:\Write\New folder\GYMproj\obj\Debug\GYMproj.csproj.GenerateResource.cache
+E:\Write\New folder\GYMproj\obj\Debug\GYMproj.csproj.CoreCompileInputs.cache
+E:\Write\New folder\GYMproj\obj\Debug\GYMproj.exe
+E:\Write\New folder\GYMproj\obj\Debug\GYMproj.pdb
